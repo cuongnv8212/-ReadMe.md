@@ -15,3 +15,6 @@
 15 B & E
 16 A & B & C
 17 A
+
+Link truy cập lab Nodejs 
+http://52.91.144.31:3000/
